@@ -1,0 +1,2 @@
+# MarikaDM.github.io
+gyakorlat
